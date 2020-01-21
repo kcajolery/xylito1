@@ -20,6 +20,7 @@
 	else
 	{
 		echo "<script> alert('로그인 실패'); </script>";
+    echo "<script> history.back(); </script>";
 	}
 
 ?>

@@ -20,7 +20,7 @@
   {
     ?>
     <script>
-      alert("Success");
+      alert("회원가입 성공");
       location.replace("./login.html");
     </script>
 <?php
@@ -29,7 +29,7 @@
   {
     ?>
     <script>
-      alert("Fail");
+      alert("회원가입 실패");
     </script>
 <?php
   }
